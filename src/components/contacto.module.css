@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@font-face {
+  font-family: "Fuente"; /* Puedes cambiar 'MiFuente' al nombre que prefieras */
+  src: url("./fonts/Montserrat-ExtraBoldItalic.ttf") format("truetype"); /* Ruta de la fuente local y remota */   
+}
+
+.fuente{
+    font-family: "Fuente", sans-serif;
+    font-size: 50px;
+    margin-top: 3%;
+}

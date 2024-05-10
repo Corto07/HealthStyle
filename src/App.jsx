@@ -66,4 +66,4 @@ function App() {
   );
 }
 
-export default {App, openLoginModal, openRegistrationModal} 
+export default App 
