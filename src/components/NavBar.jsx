@@ -2,7 +2,7 @@ import "../index.css";
 import { useState, useEffect } from "react";
 import burgerMenu from "../assets/burgerMenu.svg";
 import logo from  "../assets/1.svg";
-import { Link} from "react-router-dom";
+import { Link } from "react-router-dom";
 
 const NavBar = ({ openLoginModal, openRegistrationModal }) => {
   const [menuOpen, setMenuOpen] = useState(false);

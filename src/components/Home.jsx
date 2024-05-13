@@ -1,6 +1,4 @@
-import React, { useState, useEffect } from 'react';
-// import { Ripple, initTE } from "tw-elements";
-// import NavBar from "./NavBar";
+import React, { useState } from 'react';
 import Footer from "./Footer";
 import Contacto from "./Contacto";
 import { Service } from "./Service";
@@ -16,8 +14,6 @@ import Chatbot from "./Chatbot";
 
 const Home =  () => {
   
-  // initTE({ Ripple });
-
   const [popUpOpen, setPopUpOpen] = useState(false);
   
   const togglePopUp = (e) => {
@@ -36,7 +32,6 @@ const Home =  () => {
   return (
     <>
     <div >
-      {/* <NavBar/> */}
       <Header/>
       <AboutUs/>
       <Service/>
