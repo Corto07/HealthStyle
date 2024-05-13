@@ -31,7 +31,7 @@ Nuestro proyecto consiste en una plataforma diseñada para ayudarte a alcanzar t
 - Wellington Crespo: Diseño UI & Desarrollador Frontend
 
 ## Deploy
-https://health-style.vercel.app/
+https://healthstyle.vercel.app/
 
 [react.js]: https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=white
 [TailwindCSS]: https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white
